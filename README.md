@@ -154,8 +154,8 @@ Data-Jobs-Dashboard/
 │
 ├── Data Jobs Dashboard.pbix
 ├── README.md
-├── Capture1.PNG
-├── Capture2.PNG
+├── DashboardPage1.png
+├── DashboardPage2.png
 └── dataset/
 ```
 
